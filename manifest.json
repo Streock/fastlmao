@@ -1,0 +1,21 @@
+{
+   "name": "Adem Yılmaz Randevu Sistemi",
+   "description": "Adem Yılmaz'dan kolayca randevu al!",
+   "short_name": "Adem Yılmaz",
+   "icons": [
+      {
+         "src": "https://randevu.eralsoft.com/assets/192x192.png",
+         "sizes": "192x192",
+         "type": "image/png"
+      },
+      {
+         "src": "https://randevu.eralsoft.com/assets/512x512.png",
+         "sizes": "512x512",
+         "type": "image/png"
+      }
+   ],
+   "start_url": "https://randevu.eralsoft.com/admin",
+   "display": "standalone",
+   "theme_color": "#FFFFFF",
+   "background_color": "#FFFFFF"
+}
