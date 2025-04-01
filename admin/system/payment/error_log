@@ -1,0 +1,16 @@
+[22-Jan-2023 18:30:59 Europe/Istanbul] PHP Notice:  Undefined index: merchant_oid in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:30:59 Europe/Istanbul] PHP Notice:  Undefined index: status in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:30:59 Europe/Istanbul] PHP Notice:  Undefined index: total_amount in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:30:59 Europe/Istanbul] PHP Notice:  Undefined index: hash in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 33
+[22-Jan-2023 18:31:06 Europe/Istanbul] PHP Notice:  Undefined index: merchant_oid in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:31:06 Europe/Istanbul] PHP Notice:  Undefined index: status in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:31:06 Europe/Istanbul] PHP Notice:  Undefined index: total_amount in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:31:06 Europe/Istanbul] PHP Notice:  Undefined index: hash in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 33
+[22-Jan-2023 18:31:52 Europe/Istanbul] PHP Notice:  Undefined index: merchant_oid in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:31:52 Europe/Istanbul] PHP Notice:  Undefined index: status in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:31:52 Europe/Istanbul] PHP Notice:  Undefined index: total_amount in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:31:52 Europe/Istanbul] PHP Notice:  Undefined index: hash in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 33
+[22-Jan-2023 18:40:26 Europe/Istanbul] PHP Notice:  Undefined index: merchant_oid in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:40:26 Europe/Istanbul] PHP Notice:  Undefined index: status in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:40:26 Europe/Istanbul] PHP Notice:  Undefined index: total_amount in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 29
+[22-Jan-2023 18:40:26 Europe/Istanbul] PHP Notice:  Undefined index: hash in /home/eralsoft/public_html/randevu/admin/system/payment/paytr.php on line 33

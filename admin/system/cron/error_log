@@ -1,0 +1,44 @@
+[24-Jan-2023 00:00:03 Europe/Istanbul] PHP Fatal error:  Uncaught PDOException: SQLSTATE[42000]: Syntax error or access violation: 1064 You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near 'birthdayTime='' order by id desc' at line 1 in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php:262
+Stack trace:
+#0 /home/eralsoft/public_html/randevu/admin/system/cron/cron.php(262): PDO->query('SELECT * from m...')
+#1 {main}
+  thrown in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 262
+[24-Jan-2023 00:49:28 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 290
+[24-Jan-2023 00:49:28 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 295
+[24-Jan-2023 00:49:28 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 295
+[24-Jan-2023 00:50:21 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 290
+[24-Jan-2023 00:50:21 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 295
+[24-Jan-2023 00:50:21 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 295
+[24-Jan-2023 00:50:21 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 290
+[24-Jan-2023 00:50:21 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 295
+[24-Jan-2023 00:50:21 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 295
+[24-Jan-2023 01:16:37 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 375
+[24-Jan-2023 01:16:37 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[24-Jan-2023 01:16:37 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[24-Jan-2023 01:17:12 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 375
+[24-Jan-2023 01:17:12 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[24-Jan-2023 01:17:12 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[24-Jan-2023 01:18:09 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 375
+[24-Jan-2023 01:18:09 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[24-Jan-2023 01:18:09 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[24-Jan-2023 12:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 293
+[24-Jan-2023 12:00:03 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 298
+[24-Jan-2023 12:00:03 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 298
+[26-Jan-2023 11:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 64
+[26-Jan-2023 11:00:03 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 69
+[26-Jan-2023 11:00:03 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 69
+[26-Jan-2023 15:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 375
+[26-Jan-2023 15:00:03 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[26-Jan-2023 15:00:03 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[27-Jan-2023 11:00:02 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 64
+[27-Jan-2023 11:00:02 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 69
+[27-Jan-2023 11:00:02 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 69
+[27-Jan-2023 15:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 375
+[27-Jan-2023 15:00:03 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[27-Jan-2023 15:00:03 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[28-Jan-2023 12:00:03 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 64
+[28-Jan-2023 12:00:03 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 69
+[28-Jan-2023 12:00:03 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 69
+[28-Jan-2023 16:00:02 Europe/Istanbul] PHP Notice:  Undefined variable: source in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 375
+[28-Jan-2023 16:00:02 Europe/Istanbul] PHP Warning:  Use of undefined constant CURLOPT_MUTE - assumed 'CURLOPT_MUTE' (this will throw an Error in a future version of PHP) in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
+[28-Jan-2023 16:00:02 Europe/Istanbul] PHP Warning:  curl_setopt() expects parameter 2 to be int, string given in /home/eralsoft/public_html/randevu/admin/system/cron/cron.php on line 380
